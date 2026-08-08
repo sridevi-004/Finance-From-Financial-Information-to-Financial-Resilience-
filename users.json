@@ -1,0 +1,11 @@
+{
+  "user_id": "USER001",
+  "user_type": "First-time salaried employee",
+  "age_range": "25-30",
+  "monthly_income": 35000,
+  "monthly_expenses": 22000,
+  "current_savings": 50000,
+  "monthly_debt_payment": 5000,
+  "dependents": 2,
+  "financial_experience": "Beginner"
+}
