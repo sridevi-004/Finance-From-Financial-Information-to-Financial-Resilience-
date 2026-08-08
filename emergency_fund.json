@@ -1,0 +1,7 @@
+{
+  "current_amount": 50000,
+  "target_amount": 100000,
+  "remaining_amount": 50000,
+  "purpose": "Handle unexpected financial emergencies",
+  "assumption": "The target is an educational estimate based on essential expenses and should be adjusted to the user's situation."
+}
