@@ -1,0 +1,12 @@
+{
+  "do_not_collect": [
+    "Passwords",
+    "OTP",
+    "Bank account numbers",
+    "Debit or credit card numbers",
+    "PINs",
+    "Online banking credentials",
+    "Unnecessary government identification numbers"
+  ],
+  "privacy_message": "Never enter confidential banking or authentication information into the application."
+}
