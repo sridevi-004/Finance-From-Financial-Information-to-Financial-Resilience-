@@ -1,0 +1,22 @@
+{
+  "goals": [
+    {
+      "goal": "Emergency Fund",
+      "priority": "High",
+      "time_horizon": "Short Term",
+      "target_amount": 100000
+    },
+    {
+      "goal": "Higher Education",
+      "priority": "Medium",
+      "time_horizon": "Medium Term",
+      "target_amount": 200000
+    },
+    {
+      "goal": "Retirement",
+      "priority": "High",
+      "time_horizon": "Long Term",
+      "target_amount": 5000000
+    }
+  ]
+}
