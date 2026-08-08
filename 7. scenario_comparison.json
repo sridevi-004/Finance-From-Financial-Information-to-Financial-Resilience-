@@ -1,0 +1,41 @@
+{
+  "scenarios": [
+    {
+      "name": "Increase Emergency Savings",
+      "monthly_allocation": 5000,
+      "advantages": [
+        "Improves emergency preparedness",
+        "Provides financial flexibility"
+      ],
+      "disadvantages": [
+        "Less money available for other goals"
+      ],
+      "risk": "Investment opportunities may be delayed while building the emergency reserve."
+    },
+    {
+      "name": "Increase Debt Repayment",
+      "monthly_allocation": 5000,
+      "advantages": [
+        "May reduce interest burden depending on loan terms",
+        "Can improve future cash flow"
+      ],
+      "disadvantages": [
+        "Less money available for savings in the short term"
+      ],
+      "risk": "Emergency savings should not be completely ignored."
+    },
+    {
+      "name": "Long-Term Investment Learning",
+      "monthly_allocation": 3000,
+      "advantages": [
+        "Supports long-term goals",
+        "Builds investment knowledge"
+      ],
+      "disadvantages": [
+        "Investment values can fluctuate",
+        "Returns are not guaranteed"
+      ],
+      "risk": "Money invested may lose value and may not be suitable for short-term needs."
+    }
+  ]
+}
