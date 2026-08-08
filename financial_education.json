@@ -1,0 +1,13 @@
+{
+  "topics": {
+    "inflation": "Inflation means prices generally increase over time, reducing the purchasing power of money.",
+    "compounding": "Compounding means returns can generate additional returns over time.",
+    "saving": "Saving means keeping money for future needs and emergencies.",
+    "investing": "Investing means putting money into assets with the possibility of growth and risk of loss.",
+    "sip": "SIP is a method of investing a fixed amount periodically in an investment product.",
+    "mutual_fund": "A mutual fund pools money from investors and invests according to its stated strategy.",
+    "risk": "Risk is the possibility that actual results may differ from expectations, including possible loss.",
+    "diversification": "Diversification means spreading money across different investments to reduce concentration risk.",
+    "liquidity": "Liquidity means how easily an asset can be converted into cash."
+  }
+}
